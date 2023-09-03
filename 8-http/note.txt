@@ -1,0 +1,21 @@
+hypermedia trasnfer protocol (secure)
+
+https -> tls / ssl
+
+client (url) -> server(html)
+
+------------------------------------
+<status code>
+100 : information 200 : successful
+300 : redirection 400 : client error
+500 : server error
+------------------------------------
+
+requset method : get post put delete patch head options trace
+
+
+safe
+idempotent(멱등원) : 서버를 동일한상태로 유지
+cacheable
+
+headers

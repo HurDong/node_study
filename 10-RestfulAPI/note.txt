@@ -1,0 +1,20 @@
+REST : Representational State Transfer
+
+6 guiding constrains :
+1. client-server architecture
+2. statelessness
+3. cacheability
+4. layered system
+5. code on demand
+6. uniform interface
+
+uniform interface
+1. resource identification in requests
+2. resource manipulation through representations
+3. self-descriptive meassages
+4. hypermedia as the engine of application state
+
+Create      Read     Update     Delete
+(get)       (post)   (put)      (delete)
+
+
